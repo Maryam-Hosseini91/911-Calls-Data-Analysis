@@ -1,5 +1,5 @@
 # Data analysis of 911 calls 
-![911](911-call.png)
+
 ## Introduction:
 In this project I will be analyzing some calls to 911 (emergency calls) in Montgomery County Pennsylvania, the data is obtained from [Kaggle](https://www.kaggle.com/mchirico/montcoalert).
 
